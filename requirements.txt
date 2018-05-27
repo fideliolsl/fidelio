@@ -1,0 +1,9 @@
+werkzeug
+sqlalchemy
+flask
+flask-sqlalchemy
+flask_marshmallow
+Flask-Sockets
+marshmallow-sqlalchemy
+flask-migrate
+bcrypt
